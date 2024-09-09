@@ -1,0 +1,7 @@
+{
+    "db": {
+        "db_type": "in_memory",
+        "host": "localhost",
+        "port": 6379
+    }
+}
